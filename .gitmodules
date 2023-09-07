@@ -1,0 +1,6 @@
+[submodule "crazyflie-clients-python"]
+	path = crazyflie-clients-python
+	url = https://github.com/leeebo/crazyflie-clients-python.git
+[submodule "crazyflie-lib-python"]
+	path = crazyflie-lib-python
+	url = https://github.com/leeebo/crazyflie-lib-python.git
